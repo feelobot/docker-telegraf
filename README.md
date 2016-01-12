@@ -1,2 +1,2 @@
 # docker-telegraf
-docker
+Minimal Telegraf Container
